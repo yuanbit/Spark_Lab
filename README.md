@@ -9,7 +9,7 @@ Dataset
     • # users = 28,416
     • # papers = 172,079
     • min library size = 10
-    • max library size = 2000
+    • max library size = 2,000
     • min paper popularity = 3
 
 Experiment 1
