@@ -54,4 +54,12 @@ Experiment 4: Evaluating a Content-based Recommender System
         ◦ A representation of the papers are modeled using TF-IDF scores or LDA
         ◦ A representation of the users are modeled using the aggregating the paper representations (TF-ID or LDA) for each user with respect to her library
     • Conducted an off-line evaluation (Precision, Recall, MRR)	 to evaluate the systems’ performances
+    
+Experiment 5: word2vec Recommender System
+
+    • Constructed and improved a word2vec system by TF-IDF scores that pre-processes texts and computes word embeddings to generate paper recommendations
+      
+Experiment 6: Classification
+
+    • Applied SVM and Random forest to classify the papers as relevant or irrelevant
       
