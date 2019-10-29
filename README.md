@@ -1,3 +1,7 @@
+Distributed Computing Using Spark Lab WS2018
+
+    Case-Study: Recommender systems for scientific papers using Apache Spark and Python
+
 Dataset
 
     The dataset used for the experiments contains information collected from citeulike website (http://www.citeulike.org). 
