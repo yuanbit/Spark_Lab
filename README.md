@@ -1,4 +1,4 @@
-Distributed Computing Using Spark Lab, University of Freiburg
+## Distributed Computing Using Spark Lab, University of Freiburg
 
     Case-Study: Recommender systems for scientific papers using Apache Spark and Python
 
