@@ -49,7 +49,7 @@ Experiment 3: Text Processing and Topic Modeling
 
 Experiment 4: Evaluating a Content-based Recommender System
 
-    • Implemented two kinds of Content-based Recommender Systems (CBRS) based on the TF-IFD scores of the papers and LDA.
+    • Implemented two kinds of Content-based Recommender Systems (CBRS) based on the TF-IDF scores of the papers and LDA.
         ◦ The CBRS ranks for each user all papers in the catalog with respect to her profile and return the top-k papers with the highest scores
         ◦ Representations of user and paper profiles were modeled using TF-IDF scores or LDA
     • Conducted an off-line evaluation (Precision, Recall, MRR)	 to evaluate the systems’ performances
